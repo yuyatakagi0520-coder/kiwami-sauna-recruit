@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "baskerville-display-pt";
+  src: url("./files/baskerville-display-pt.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+  unicode-range: U+20-7E,U+A0-FF,U+152-153,U+178,U+2BC,U+2DC,U+2013-2014,U+2018-2019,U+201C-201E,U+2022,U+2026,U+2039-203A,U+20AC,U+2122;
+}
+@font-face {
+  font-family: "trajan-sans-pro";
+  src: url("./files/trajan-sans-pro.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+  unicode-range: U+20-7E,U+A0-FF,U+152-153,U+178,U+2BC,U+2DC,U+2013-2014,U+2018-2019,U+201C-201E,U+2022,U+2026,U+2039-203A,U+20AC,U+2122;
+}
+@font-face {
+  font-family: "yu-mincho-pr6n";
+  src: url("./files/yu-mincho-pr6n.otf?v=2") format("opentype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
