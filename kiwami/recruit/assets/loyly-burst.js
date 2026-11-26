@@ -8,6 +8,7 @@
     if (on !== active) {
       active = on;
       el.classList.toggle('is-active', on);
+      document.body.classList.toggle('is-heatwave', on);
     }
   };
   window.addEventListener('scroll', update, { passive: true });
